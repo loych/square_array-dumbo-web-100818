@@ -3,6 +3,6 @@ def square_array(array)
   numbers= []
  
 array.each do |numbers.square!|
-puts numbers
+puts numbers.square!
 end
 end
