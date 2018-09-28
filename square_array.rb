@@ -2,7 +2,6 @@ def square_array(array)
   # your code here
   numbers= []
  
-numbers.each do |numbers.square|
-    puts "Taking out #{apple}"
+numbers.each do |numbers.square!|
 end
 end
